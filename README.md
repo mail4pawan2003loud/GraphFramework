@@ -1,7 +1,7 @@
-# srib — Header-Only Graph Execution Framework
+# GraphCV — Header-Only Graph Execution Framework
 
 ## Overview
-`srib` is a **header-only C++ framework** for building **static, graph-based pipelines** for computer vision and AI workloads.  
+`GraphCV` is a **header-only C++ framework** for building **static, graph-based pipelines** for computer vision and AI workloads.  
 
 It supports:
 - **Static graph creation** — Define computation nodes and edges at compile time.
